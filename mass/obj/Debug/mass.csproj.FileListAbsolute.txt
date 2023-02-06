@@ -1,0 +1,7 @@
+E:\Лунгу проекты\mass\bin\Debug\mass.exe.config
+E:\Лунгу проекты\mass\bin\Debug\mass.exe
+E:\Лунгу проекты\mass\bin\Debug\mass.pdb
+E:\Лунгу проекты\mass\obj\Debug\mass.csproj.AssemblyReference.cache
+E:\Лунгу проекты\mass\obj\Debug\mass.csproj.CoreCompileInputs.cache
+E:\Лунгу проекты\mass\obj\Debug\mass.exe
+E:\Лунгу проекты\mass\obj\Debug\mass.pdb
